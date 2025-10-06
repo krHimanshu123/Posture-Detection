@@ -109,8 +109,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - GitHub: [krHimanshu123](https://github.com/krHimanshu123)
-- Email: <your.email@example.com>
+- Email: <himanshu171582@gmail.com>
 
 ---
 
 **Empowering better posture for a healthier you!**
+
