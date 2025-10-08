@@ -58,6 +58,7 @@ const ContactItem = styled.div`
     font-size: 1.5rem;
     color: #1E90FF;
   }
+
   
   .content {
     flex: 1;
