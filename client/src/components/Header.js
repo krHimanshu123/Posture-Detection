@@ -16,7 +16,6 @@ const float = keyframes`
   33% { transform: translateY(-10px) rotate(5deg); }
   66% { transform: translateY(5px) rotate(-3deg); }
 `;
-
 // Removed glow animation for cleaner look
 
 const HeaderContainer = styled.header`
