@@ -52,6 +52,7 @@ const FAQQuestion = styled.button`
   }
 `;
 
+
 const FAQAnswer = styled.div`
   padding: ${props => props.isOpen ? '0 1.5rem 1.5rem' : '0'};
   max-height: ${props => props.isOpen ? '200px' : '0'};
