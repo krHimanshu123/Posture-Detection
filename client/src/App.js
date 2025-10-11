@@ -21,6 +21,7 @@ const FloatingParticles = () => {
   );
 };
 
+
 // Loading Screen Component
 const LoadingScreen = ({ isLoading }) => {
   if (!isLoading) return null;
