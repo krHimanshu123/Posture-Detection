@@ -16,7 +16,6 @@ const bounce = keyframes`
     transform: translateY(-10px);
   }
 `;
-
 const pulse = keyframes`
   0%, 100% {
     transform: scale(1);
