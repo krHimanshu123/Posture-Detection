@@ -25,7 +25,6 @@ const FAQItem = styled.div`
   overflow: hidden;
   transition: all 0.3s ease;
   border: 1px solid rgba(45, 55, 70, 0.8);
-  
   &:hover {
     background: rgba(42, 48, 58, 0.95);
     border-color: rgba(30, 144, 255, 0.3);
