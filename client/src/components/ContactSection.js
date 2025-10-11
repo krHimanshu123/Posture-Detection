@@ -37,6 +37,7 @@ const ContactInfo = styled.div`
   }
 `;
 
+
 const ContactItem = styled.div`
   display: flex;
   align-items: center;
