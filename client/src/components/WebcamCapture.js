@@ -28,6 +28,7 @@ const WebcamContainer = styled.div`
   position: relative;
 `;
 
+
 const VideoContainer = styled.div.withConfig({
   shouldForwardProp: (prop) => !['isAnalyzing'].includes(prop),
 })`
