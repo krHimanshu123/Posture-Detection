@@ -25,7 +25,6 @@ const slideInLeft = keyframes`
   }
 `;
 
-
 const slideInRight = keyframes`
   from {
     opacity: 0;
