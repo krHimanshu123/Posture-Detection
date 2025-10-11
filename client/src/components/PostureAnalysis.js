@@ -22,7 +22,6 @@ const scoreAnimation = keyframes`
   }
 `;
 
-
 // Removed unused animation keyframes for cleaner interface
 
 const chartBarGrow = keyframes`
