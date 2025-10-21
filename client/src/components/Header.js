@@ -45,6 +45,7 @@ const NavContainer = styled.div`
     flex-direction: column;
     gap: 1rem;
   }
+  
 `;
 
 const LogoSection = styled.div`
