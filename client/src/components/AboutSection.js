@@ -97,6 +97,7 @@ const SectionTitle = styled.h2`
   @media (max-width: 768px) {
     font-size: 2.2rem;
   }
+  
 `;
 
 const SectionSubtitle = styled.p`
