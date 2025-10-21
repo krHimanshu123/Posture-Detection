@@ -34,6 +34,7 @@ const shimmer = keyframes`
   100% {
     background-position: 1000px 0;
   }
+  
 `;
 
 const borderGlow = keyframes`
