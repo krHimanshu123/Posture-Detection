@@ -49,6 +49,7 @@ const FAQQuestion = styled.button`
   &:hover {
     color: #1E90FF;
   }
+  
 `;
 
 
