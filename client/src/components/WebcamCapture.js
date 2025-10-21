@@ -69,6 +69,7 @@ const WebcamElement = styled(Webcam)`
     max-width: 480px;
     height: auto;
   }
+  
 `;
 
 const OverlayIndicators = styled.div`
