@@ -9,6 +9,7 @@ const TestimonialsContainer = styled.section`
   margin: 2rem 0;
   text-align: center;
   border: 1px solid rgba(45, 55, 70, 0.8);
+  
 `;
 
 const TestimonialsSection = () => {
