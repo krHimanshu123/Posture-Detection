@@ -20,6 +20,7 @@ const scoreAnimation = keyframes`
   to {
     stroke-dashoffset: calc(440 - (440 * var(--progress) / 100));
   }
+  
 `;
 
 // Removed unused animation keyframes for cleaner interface
