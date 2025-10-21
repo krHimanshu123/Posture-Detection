@@ -68,6 +68,7 @@ const HeroContent = styled.div`
   max-width: 1000px;
   z-index: 2;
   position: relative;
+  
 `;
 
 const MainTitle = styled.h1`
