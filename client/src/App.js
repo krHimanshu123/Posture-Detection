@@ -32,6 +32,7 @@ const LoadingScreen = ({ isLoading }) => {
         <div className="text-6xl mb-4 animate-bounce">🏃‍♂️</div>
         <div className="text-2xl font-bold text-white mb-4">AlignIQ Loading...</div>
         <div className="loading-spinner"></div>
+    
       </div>
     </div>
   );
